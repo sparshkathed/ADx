@@ -1,0 +1,10 @@
+{
+    "name": "Sparsh Adblocker",
+    "version": "1.0",
+    "description": "An Extension that blocks ads and trackers",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["bg.js"]
+    },
+    "manifest_version": 2
+}
