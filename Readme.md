@@ -1,0 +1,1 @@
+Prevents online advertisements from displaying on webpages, providing users with an ad-free browsing experience.
